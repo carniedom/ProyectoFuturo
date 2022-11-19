@@ -1,5 +1,9 @@
 import java.security.PrivilegedExceptionAction;
 
+/*******************************
+ * Código desarrollado por Carmelo Nieto Domene
+ * Asignatura Entornos de Desarrollo 2022/2023
+ */
 public class Main {
     public static void main(String[] args) {
         //Se declara la variable para mostrar el mensaje del método veredicto
