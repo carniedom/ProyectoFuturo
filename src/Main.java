@@ -19,7 +19,7 @@ public class Main {
         System.out.println(mensajeVeredicto);
     }
 
-    static String veredicto(String valor1,String valor2)
+    private static String veredicto(String valor1,String valor2)
     {
         //Se inicializan las variables para el mensaje y para la validación de los argumentos
         String mensaje ="";
